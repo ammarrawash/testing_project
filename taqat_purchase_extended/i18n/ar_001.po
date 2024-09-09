@@ -1,0 +1,264 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* taqat_purchase_extended
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 15.0+e\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-01-23 05:55+0000\n"
+"PO-Revision-Date: 2023-01-23 05:55+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: taqat_purchase_extended
+#: model_terms:ir.ui.view,arch_db:taqat_purchase_extended.report_purchaseorder_document_inherit_approval
+msgid ":<b>اسم المورّد</b>"
+msgstr ""
+
+#. module: taqat_purchase_extended
+#: model_terms:ir.ui.view,arch_db:taqat_purchase_extended.report_purchaseorder_document_inherit_approval
+msgid ":<b>البريد الإلكتروني للمورّد</b>"
+msgstr ""
+
+#. module: taqat_purchase_extended
+#: model_terms:ir.ui.view,arch_db:taqat_purchase_extended.report_purchaseorder_document_inherit_approval
+msgid ":<b>البريد الإلكتروني</b>"
+msgstr ""
+
+#. module: taqat_purchase_extended
+#: model_terms:ir.ui.view,arch_db:taqat_purchase_extended.report_purchaseorder_document_inherit_approval
+msgid ":<b>تلفون المورّد </b>"
+msgstr ""
+
+#. module: taqat_purchase_extended
+#: model_terms:ir.ui.view,arch_db:taqat_purchase_extended.report_purchaseorder_document_inherit_approval
+msgid ":<b>تلفون</b>"
+msgstr ""
+
+#. module: taqat_purchase_extended
+#: model_terms:ir.ui.view,arch_db:taqat_purchase_extended.report_purchaseorder_document_inherit_approval
+msgid ":<b>مسؤول المشتريات</b>"
+msgstr ""
+
+#. module: taqat_purchase_extended
+#: model_terms:ir.ui.view,arch_db:taqat_purchase_extended.report_purchaseorder_document_inherit_approval
+msgid "<b> Date   تاريخ الطلب  </b>"
+msgstr ""
+
+#. module: taqat_purchase_extended
+#: model_terms:ir.ui.view,arch_db:taqat_purchase_extended.report_purchaseorder_document_inherit_approval
+msgid "<b> Vendor Reference Number   الرقم المرجعي للمورّد</b>"
+msgstr ""
+
+#. module: taqat_purchase_extended
+#: model_terms:ir.ui.view,arch_db:taqat_purchase_extended.report_purchaseorder_document_inherit_approval
+msgid "<b><span> التلفون </span></b>:"
+msgstr ""
+
+#. module: taqat_purchase_extended
+#: model_terms:ir.ui.view,arch_db:taqat_purchase_extended.report_purchaseorder_document_inherit_approval
+msgid "<b>P.O Number  رقم طلب الشراء </b>"
+msgstr ""
+
+#. module: taqat_purchase_extended
+#: model_terms:ir.ui.view,arch_db:taqat_purchase_extended.report_purchaseorder_document_inherit_approval
+msgid "<b>المورّد</b>"
+msgstr ""
+
+#. module: taqat_purchase_extended
+#: model_terms:ir.ui.view,arch_db:taqat_purchase_extended.report_purchaseorder_document_inherit_approval
+msgid "<br/><b><span>اسم جهة الاتصال </span></b>:"
+msgstr ""
+
+#. module: taqat_purchase_extended
+#: model_terms:ir.ui.view,arch_db:taqat_purchase_extended.report_purchaseorder_document_inherit_approval
+msgid "<span>الشحن إلى:</span>"
+msgstr ""
+
+#. module: taqat_purchase_extended
+#: model_terms:ir.ui.view,arch_db:taqat_purchase_extended.report_purchaseorder_document_inherit_approval
+msgid "<strong> التوصيل</strong> | <strong>Delivery Date</strong>"
+msgstr ""
+
+#. module: taqat_purchase_extended
+#: model_terms:ir.ui.view,arch_db:taqat_purchase_extended.report_purchaseorder_document_inherit_approval
+msgid "<strong><span> العنوان :</span> </strong>"
+msgstr ""
+
+#. module: taqat_purchase_extended
+#: model_terms:ir.ui.view,arch_db:taqat_purchase_extended.report_purchaseorder_document_inherit_approval
+msgid "<strong>العملة </strong> | <strong>Currency</strong>"
+msgstr ""
+
+#. module: taqat_purchase_extended
+#: model_terms:ir.ui.view,arch_db:taqat_purchase_extended.report_purchaseorder_document_inherit_approval
+msgid "<strong>القيمة </strong> | <strong>Value </strong>"
+msgstr ""
+
+#. module: taqat_purchase_extended
+#: model_terms:ir.ui.view,arch_db:taqat_purchase_extended.report_purchaseorder_document_inherit_approval
+msgid "<strong>الكمية</strong> | <strong>Qty</strong>"
+msgstr ""
+
+#. module: taqat_purchase_extended
+#: model_terms:ir.ui.view,arch_db:taqat_purchase_extended.report_purchaseorder_document_inherit_approval
+msgid "<strong>الوصف  </strong> | <strong>Description</strong>"
+msgstr ""
+
+#. module: taqat_purchase_extended
+#: model_terms:ir.ui.view,arch_db:taqat_purchase_extended.report_purchaseorder_document_inherit_approval
+msgid "<strong>رقم البند # </strong>"
+msgstr ""
+
+#. module: taqat_purchase_extended
+#: model_terms:ir.ui.view,arch_db:taqat_purchase_extended.report_purchaseorder_document_inherit_approval
+msgid "<strong>سعر الوحدة </strong> | <strong>Unit Price</strong>"
+msgstr ""
+
+#. module: taqat_purchase_extended
+#: model_terms:ir.ui.view,arch_db:taqat_purchase_extended.report_purchaseorder_document_inherit_approval
+msgid "Approvals -"
+msgstr "الموافقات"
+
+#. module: taqat_purchase_extended
+#: model_terms:ir.ui.view,arch_db:taqat_purchase_extended.report_purchaseorder_document_inherit_approval
+msgid "Authorized signature:"
+msgstr "توقيع معتمد:"
+
+#. module: taqat_purchase_extended
+#: model_terms:ir.ui.view,arch_db:taqat_purchase_extended.jbm_purchase_order_form_inherit_custom
+msgid "Create Variation Order"
+msgstr "إنشاء أمر التباين"
+
+#. module: taqat_purchase_extended
+#: model:ir.model.fields,field_description:taqat_purchase_extended.field_purchase_order_evaluation__create_uid
+msgid "Created by"
+msgstr "انشأ من قبل"
+
+#. module: taqat_purchase_extended
+#: model:ir.model.fields,field_description:taqat_purchase_extended.field_purchase_order_evaluation__create_date
+msgid "Created on"
+msgstr "تم إنشاؤها على"
+
+#. module: taqat_purchase_extended
+#: model:ir.model.fields,field_description:taqat_purchase_extended.field_purchase_order_evaluation__descriptions
+msgid "Description"
+msgstr "وصف"
+
+#. module: taqat_purchase_extended
+#: model:ir.model.fields,field_description:taqat_purchase_extended.field_purchase_order_evaluation__display_name
+msgid "Display Name"
+msgstr "اسم العرض"
+
+#. module: taqat_purchase_extended
+#: model_terms:ir.ui.view,arch_db:taqat_purchase_extended.jbm_purchase_order_form_inherit_custom
+msgid "Evaluations"
+msgstr "التقييمات"
+
+#. module: taqat_purchase_extended
+#: model:ir.model.fields,field_description:taqat_purchase_extended.field_purchase_order_evaluation__min_score
+msgid "Minimum Score"
+msgstr "الحد الادنى للنقاط"
+
+#. module: taqat_purchase_extended
+#: model:ir.model.fields,field_description:taqat_purchase_extended.field_purchase_order_evaluation__id
+msgid "ID"
+msgstr "بطاقة تعريف"
+
+#. module: taqat_purchase_extended
+#: model:ir.model.fields,field_description:taqat_purchase_extended.field_purchase_order__is_variant_order
+msgid "Is variant order"
+msgstr "هو ترتيب متغير"
+
+#. module: taqat_purchase_extended
+#: model:ir.model.fields,field_description:taqat_purchase_extended.field_purchase_order_evaluation____last_update
+msgid "Last Modified on"
+msgstr "تاريخ آخر تعديل"
+
+#. module: taqat_purchase_extended
+#: model:ir.model.fields,field_description:taqat_purchase_extended.field_purchase_order_evaluation__write_uid
+msgid "Last Updated by"
+msgstr "آخر تحديث بواسطة"
+
+#. module: taqat_purchase_extended
+#: model:ir.model.fields,field_description:taqat_purchase_extended.field_purchase_order_evaluation__write_date
+msgid "Last Updated on"
+msgstr "آخر تحديث في"
+
+#. module: taqat_purchase_extended
+#: model_terms:ir.ui.view,arch_db:taqat_purchase_extended.report_purchaseorder_document_inherit_approval
+msgid "Logo"
+msgstr "شعار"
+
+#. module: taqat_purchase_extended
+#: model_terms:ir.ui.view,arch_db:taqat_purchase_extended.report_purchaseorder_document_inherit_approval
+msgid ""
+"Mohammed Al-Yazeedi\n"
+"                                 <br/>\n"
+"                                 General Manager"
+msgstr ""
+"محمد اليزيدي\n"
+"                                 <br/>\n"
+"مدير عام"
+#. module: taqat_purchase_extended
+#: model_terms:ir.ui.view,arch_db:taqat_purchase_extended.report_purchaseorder_document_inherit_approval
+msgid "Please Provide the Following Products/ services as follow:"
+msgstr "يرجى تقديم المنتجات / الخدمات التالية على النحو التالي:"
+
+#. module: taqat_purchase_extended
+#: model:ir.model,name:taqat_purchase_extended.model_purchase_order
+msgid "Purchase Order"
+msgstr "أمر شراء"
+
+#. module: taqat_purchase_extended
+#: model:ir.model,name:taqat_purchase_extended.model_purchase_order_line
+msgid "Purchase Order Line"
+msgstr "بند أمر الشراء"
+
+#. module: taqat_purchase_extended
+#: model:ir.model,name:taqat_purchase_extended.model_purchase_order_evaluation
+msgid "Purchase Order evaluation"
+msgstr "تقييم طلب الشراء"
+
+#. module: taqat_purchase_extended
+#: model:ir.model.fields,field_description:taqat_purchase_extended.field_purchase_order_evaluation__purchase_order_id
+msgid "Purchase order"
+msgstr "أمر شراء"
+
+#. module: taqat_purchase_extended
+#: model:ir.model.fields,field_description:taqat_purchase_extended.field_purchase_order__purchase_order_evaluation_ids
+#: model_terms:ir.ui.view,arch_db:taqat_purchase_extended.jbm_purchase_order_form_inherit_custom
+msgid "Supplier Evaluation"
+msgstr "تقييم المورد"
+
+#. module: taqat_purchase_extended
+#: model:ir.model.fields,field_description:taqat_purchase_extended.field_purchase_order_evaluation__total_score
+msgid "Total Score"
+msgstr "مجموع النقاط"
+
+#. module: taqat_purchase_extended
+#: model:ir.model.fields,field_description:taqat_purchase_extended.field_purchase_order_evaluation__type
+msgid "Type"
+msgstr "يكتب"
+
+#. module: taqat_purchase_extended
+#: model:ir.model.fields,field_description:taqat_purchase_extended.field_purchase_order__variant_order_id
+msgid "Variant order id"
+msgstr "معرّف الطلب المتغير"
+
+#. module: taqat_purchase_extended
+#: model_terms:ir.ui.view,arch_db:taqat_purchase_extended.report_purchaseorder_document_inherit_approval
+msgid ""
+"إجمالي القيمة\n"
+"                            Total Price"
+msgstr ""
+
+#. module: taqat_purchase_extended
+#: model_terms:ir.ui.view,arch_db:taqat_purchase_extended.report_purchaseorder_document_inherit_approval
+msgid "طلب شراء Purchasing Order"
+msgstr ""

@@ -1,0 +1,17 @@
+<odoo>
+    <data>
+
+        <record id="it_inherit_approval_request_view_form" model="ir.ui.view">
+            <field name="name">inherit.approval.request</field>
+            <field name="model">approval.request</field>
+            <field name="inherit_id" ref="approvals.approval_request_view_form"/>
+            <field name="arch" type="xml">
+                <xpath expr="//field[@name='request_employee_id']" position="after">
+                    <field name="is_it_device" invisible="1"/>
+                    <field name="it_devices_id" widget="many2many_tags"
+                           attrs="{'invisible': [('is_it_device', '!=', True)]}"/>
+                </xpath>
+            </field>
+        </record>
+    </data>
+</odoo>
